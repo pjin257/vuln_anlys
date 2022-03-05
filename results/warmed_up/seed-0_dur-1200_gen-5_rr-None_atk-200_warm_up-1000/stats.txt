@@ -1,0 +1,5 @@
+5898 vehicles are generated
+2226 vehicles completed travel
+Travel time sum. of finished travels: 1101514.1815452082
+Travel time sum. of vehicles on their way: 1593732.874625756
+Total travel time sum.: 2695247.056170964

@@ -1,0 +1,6 @@
+19707 vehicles are generated
+13023 vehicles completed travel
+Travel time sum. of finished travels: 10489604.379255025
+Travel time sum. of vehicles on their way: 6698053.740592187
+Total travel time sum.: 17187658.119847212
+Simulation runtime: 441.0890073776245
